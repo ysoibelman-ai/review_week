@@ -141,7 +141,7 @@
 
 # Project
 name = input("Enter customer name: ")
-product= input(" Enter product: ")
+product= input(" Enter product: ").upper()
 price = float(input("Enter product price: "))
 quantity = int(input("Enter product quantity: "))
 discount = float(input("Enter discount: "))
