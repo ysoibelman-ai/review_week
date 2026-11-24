@@ -105,7 +105,6 @@ if has_guide == "1":
     has_guide = True
 else:
     has_guide = False
-
 if age >18 or has_guide:
     print ("You can enter")
 else:
